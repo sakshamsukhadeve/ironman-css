@@ -1,0 +1,15 @@
+background-color: red;
+
+
+background color: yellow;
+
+
+background-color: blue;
+
+background color: green;
+
+
+background-color: rgb(245, 178, 8);
+
+
+http://127.0.0.1:3002/index.html
